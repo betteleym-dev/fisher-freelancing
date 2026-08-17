@@ -1,2 +1,3 @@
-# fisher-freelancing
-Fisher First Freelancing website and customer portal (marketing site + demo portal)
+# Fisher First Freelancing
+
+Landing page and customer portal for Fisher First Freelancing.
